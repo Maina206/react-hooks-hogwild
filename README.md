@@ -1,4 +1,4 @@
-# Phase 2 Week 1 Code Challenge: Hogwarts
+# Phase 2 Week 1 Code Challenge: Hog Wilds
 
 ## Author
 Alexander Maina
