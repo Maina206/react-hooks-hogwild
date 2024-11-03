@@ -14,8 +14,8 @@ const Hog = ({
   return (
     <div 
       className="ui card eight wide column"
-      onClick={() => setShowDetails(!showDetails)} // Moved click handler to entire card
-      style={{ cursor: 'pointer' }} // Added cursor pointer to indicate clickable
+      onClick={() => setShowDetails(!showDetails)} 
+      style={{ cursor: 'pointer' }} 
     >
       <div className="image hog-img-container">
         <img 
