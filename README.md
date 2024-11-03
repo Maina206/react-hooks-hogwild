@@ -74,12 +74,5 @@ App
 - Child to Parent: Data flows up through callback functions
 - Components re-render through state updates
 
-## Future Improvements
-- Memoize filtered/sorted hogs list for performance
-- Add form data validation
-- Implement error handling for image loading
-- Add search functionality
-- Implement persistent storage
-
 ## License
 This project is licensed under the MIT License
