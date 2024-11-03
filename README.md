@@ -1,5 +1,8 @@
 # Phase 2 Week 1 Code Challenge: Hogwarts
 
+## Author
+Alexander Maina
+
 ## Description
 This is a React application that displays a list of hogs (pigs) with various features. Users can view hog details, filter greased hogs, sort by name or weight, hide/show hogs, and add new hogs to the collection.
 
@@ -77,9 +80,6 @@ App
 - Implement error handling for image loading
 - Add search functionality
 - Implement persistent storage
-
-## Author
-[Your Name]
 
 ## License
 This project is licensed under the MIT License
