@@ -3,11 +3,11 @@
 ## Author
 Alexander Maina
 
-## Description
-This is a React application that displays a list of hogs (pigs) with various features. Users can view hog details, filter greased hogs, sort by name or weight, hide/show hogs, and add new hogs to the collection.
+## Project Link
+Link to the project: 
 
 ## Description
-Link to the project: 
+This is a React application that displays a list of hogs (pigs) with various features. Users can view hog details, filter greased hogs, sort by name or weight, hide/show hogs, and add new hogs to the collection.
 
 ## Features
 - Display hog tiles with name and image
